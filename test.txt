@@ -1,9 +1,2 @@
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-台視,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv066
-台視,rtmp://9hv9.mine.nu/sat/tv071
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-台視新聞,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視新聞,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
