@@ -3,7 +3,7 @@
     {
       "name": "LITV直播(python)",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/mdkevin004/test/refs/heads/main/list.py",
+      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/list.py",
       "ext": {}
     }
   ]
