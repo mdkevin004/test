@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/test.py",
+      "ext": {}
+    }
+  ]
+}
