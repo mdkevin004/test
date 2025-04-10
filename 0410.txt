@@ -26,7 +26,7 @@
             "itemid": "uid0000",
             "name": "華視",
             "num": "00002",
-            "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv071",
+            "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv01",
 "ytdl-format": "bv*[fps<=30]/bv*[height<=720]/wv*[fps<=30]/wv* + ba / b[fps<=30]/b[height<=720]/w[fps<=30]/w"
 },
 {
