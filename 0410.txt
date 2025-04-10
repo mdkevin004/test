@@ -9,10 +9,10 @@
 },
 {
             "itemid": "uid0000",
-            "name": "台視",
+            "name": "TVBS li-tv",
             "num": "00002",
             "mention": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",			
-            "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv066",
+            "url": "https://www.litv.tv/channel/watch/4gtv-4gtv072",
 "ytdl-format": "bv*[fps<=30]/bv*[height<=720]/wv*[fps<=30]/wv* + ba / b[fps<=30]/b[height<=720]/w[fps<=30]/w"
 },
 {
