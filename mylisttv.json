@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "LITV直播(python)",
+      "name": "python",
       "type": 3,
       "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/20250413.py",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
