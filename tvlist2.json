@@ -3,7 +3,7 @@
     {
       "name": "python",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/20250626.py",
+      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/20250715.py",
       "epg": "https://epg.catvod.com/epg.xml/?ch={name}&date={date}",
       "ext": ""
     }
