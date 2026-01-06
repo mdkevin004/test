@@ -3,8 +3,8 @@
     {
       "name": "python",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/20250715.py",
-      "epg": "https://epg.catvod.com/epg.xml/?ch={name}&date={date}",
+      "api": "https://raw.githubusercontent.com/mdkevin004/test/refs/heads/main/20260106.py",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "ext": ""
     }
   ]
